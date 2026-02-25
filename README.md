@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello, I'm stackforcharlie!
 
-<!--
-**stackforcharlie/stackforcharlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Practical bots and AI agents for everyday life and small businesses.**
 
-Here are some ideas to get you started:
+I build chat-first helpers that handle the small things well—so you can focus on what matters. My focus is on creating accessible, functional automation that bridges the gap between complex AI and daily productivity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ What I'm Building
+* **AI Agents**: Tailored assistants to streamline workflows.
+* **Chatbots**: Conversational tools for personal use and small business operations.
+* **Automation**: Practical solutions to handle repetitive, low-value tasks.
+
+### 🚀 Connect with me
+* 💬 **Telegram:** [t.me/stackforcharlie](https://t.me/stackforcharlie)
+* 🐦 **X (Twitter):** [@stackforcharlie](https://x.com/stackforcharlie)
+* 📺 **YouTube:** [@stackforcharlie](https://www.youtube.com/@stackforcharlie)
+* 🤖 **Reddit:** [u/stackforcharlie](https://reddit.com/u/stackforcharlie)
+* 🐙 **GitHub:** [github.com/stackforcharlie](https://github.com/stackforcharlie)
+
+---
+
+> "Building chat-first helpers that handle the small things well."
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=stackforcharlie&show_icons=true&theme=transparent)
