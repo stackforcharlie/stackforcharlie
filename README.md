@@ -21,5 +21,3 @@ I build chat-first helpers that handle the small things well—so you can focus 
 ---
 
 > "Building chat-first helpers that handle the small things well."
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=stackforcharlie&show_icons=true&theme=transparent)
