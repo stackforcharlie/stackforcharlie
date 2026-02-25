@@ -41,7 +41,7 @@ Built for **individuals**, **families**, and **small teams** — not enterprise.
 > Text/image-to-video bot via Dreamina AI. Runs on the edge, no servers to manage.
 
 ### 📚 [telegram-iraq-etutor-bot](https://github.com/stackforcharlie/telegram-iraq-etutor-bot)
-> 📈 لدرجات أفضل.. دائماً وياك — An e-tutor bot for Iraqi students.
+> An e-tutor bot for Iraqi students.
 
 ---
 
